@@ -1,0 +1,17 @@
+{
+  "name": "webpack-webstorm-debugger-script",
+  "version": "1.0.0",
+  "description": "Script to debug webpack plugins with webstorm. Taken from http://blog.assaf.co/debugging-a-webpack-plugin-loader/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "webstorm",
+    "debug",
+    "debugger",
+    "plugin"
+  ],
+  "license": "MIT"
+}
